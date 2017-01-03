@@ -2,7 +2,7 @@
 
 Plans for 2017, make this year the very important one of my Career life. 
 
-MAKE ME BE BETTER FOR FUTURE.
+MAKE ME BETTER FOR FUTURE.
 
 ##Include
 1.[EasyAndroid2017](https://github.com/mazouri/EasyAndroid2017)
