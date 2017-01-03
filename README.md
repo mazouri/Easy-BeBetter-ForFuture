@@ -4,6 +4,8 @@ Plans for 2017, make this year the very important one of my Career life.
 
 MAKE ME BETTER FOR FUTURE.
 
+To gain 5k stars this year.
+
 ##Include
 1.[EasyAndroid2017](https://github.com/mazouri/EasyAndroid2017)
 
